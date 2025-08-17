@@ -4,8 +4,9 @@ function App() {
   return (
   <div className="app-container"> 
     <h2> To-Do List</h2>
-    <div>
-
+    <div className="option">
+      option
+      
 
     </div>
   </div>
