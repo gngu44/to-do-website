@@ -5,7 +5,7 @@ Welcome to my first website! This is a simple website used to practice the React
 ## Tools and Skills
 
 - React
-- vite
+- Vite
 - HTML
 - CSA
 - JavaScript
