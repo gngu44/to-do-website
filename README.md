@@ -7,5 +7,5 @@ Welcome to my first website! This is a simple website used to practice the React
 - React
 - vite
 - HTML
-- css
-- javascript
+- CSA
+- JavaScript
