@@ -6,8 +6,6 @@ function App() {
     <h2> To-Do List</h2>
     <div className="option">
       option
-      
-
     </div>
   </div>
 
