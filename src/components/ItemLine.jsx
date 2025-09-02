@@ -2,7 +2,7 @@
 
 function ItemLine({item, toggleItem, deleteItem}){
 
-    return
+    return <div> </div>
 }
 
 export default ItemLine;
