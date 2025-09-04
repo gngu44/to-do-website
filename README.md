@@ -20,6 +20,6 @@ Multiple components each with different purposes:
 
 ## ⛳️ Future Goals
 
-- [ ] Make website publily available with vercel server hosting
+- [ ] Make website publicly available with Vercel server hosting
 - [ ] Add extra functionality by allowing user to add files to individual tasks (shows file preview/image)
 - [ ] Add coloring options and re-ordering for extra organization
